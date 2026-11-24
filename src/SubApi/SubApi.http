@@ -1,0 +1,8 @@
+@SubApi_HostAddress = http://localhost:8081
+
+GET {{SubApi_HostAddress}}/database-info
+Accept: text/plain
+
+###
+
+GET {{SubApi_HostAddress}}/health

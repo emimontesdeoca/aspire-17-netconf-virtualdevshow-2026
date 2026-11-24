@@ -1,0 +1,13 @@
+@Api_HostAddress = http://localhost:8080
+
+GET {{Api_HostAddress}}/database-info
+Accept: text/plain
+
+###
+
+GET {{Api_HostAddress}}/database-info
+Accept: text/plain
+
+###
+
+GET {{Api_HostAddress}}/health
