@@ -233,37 +233,6 @@ configuración repartidas por chat, tickets y documentos desactualizados.
 
 ---
 
-## El recorrido de hoy
-
-<div class="card-grid three">
-  <div class="card">
-    <h3>1 · Entender</h3>
-    <p>Qué problema resuelve Aspire y qué piezas forman el modelo.</p>
-  </div>
-  <div class="card">
-    <h3>2 · Construir</h3>
-    <p>Dos APIs, PostgreSQL y Redis desde una carpeta vacía.</p>
-  </div>
-  <div class="card">
-    <h3>3 · Aterrizar</h3>
-    <p>Novedades de Aspire 17.0 y cómo migrar sin miedo.</p>
-  </div>
-</div>
-
-<br>
-
-> Idea guía: **la arquitectura no debería vivir solo en un diagrama**.
-
-<!--
-TIEMPO: 2:00 – 3:00
-
-Explicar la estructura para que la audiencia sepa cuándo empieza la demo y cuándo empiezan las
-novedades. La parte nueva de 17.0 no se mete artificialmente en la demo: primero enseñamos el modelo
-fundamental y luego qué amplió esta versión.
--->
-
----
-
 <!-- _class: lead hook -->
 
 <h1>¿Por qué construir una aplicación empieza tan lejos de escribir funcionalidad?</h1>
